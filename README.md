@@ -1,2 +1,2 @@
 # Banco_Central
- Extrair dados do diários Banco Central Brasil usando api.
+ Extrair dados diários do Banco Central Brasil via API.
